@@ -1,0 +1,8 @@
+name: NoDropItem
+main: vip.foxcraft.nodropitem.NoDropItem
+version: 1.0.0
+author: Saukiya
+commands:
+    ndi:
+       description: This is a permission command.
+       usage: /<command> look help.
